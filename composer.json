@@ -1,5 +1,5 @@
 {
-    "name": "backup-manager/symfony",
+    "name": "nelsonkopliku/symfony-backup-manager",
     "description": "A simple database backup manager for Symfony2 with support for S3, Rackspace, Dropbox, FTP, SFTP.",
     "keywords": ["database","backup","Symfony","S3","Rackspace","Dropbox","FTP","SFTP"],
     "type": "symfony-bundle",
